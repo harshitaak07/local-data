@@ -1,2 +1,1 @@
-*.cpp linguist-language=Dart
-*.CMake linguist-detectable=false
+*.cmake linguist-language=Dart
