@@ -1,0 +1,26 @@
+[
+    {
+        "name":"Harshitaa",
+        "age":"19",
+        "city":"Patna",
+        "hobbies":"Sleeping"
+    },
+    {
+        "name":"Khayati",
+        "age":"16",   
+        "city":"Patna",
+        "hobbies":"Dancing" 
+    },
+    {
+        "name":"Zara",
+        "age":"19",
+        "city":"Mumbai",
+        "hobbies":"Singing"
+    },
+    {
+        "name":"Arti",
+        "age":"20",
+        "city":"Delhi",
+        "hobbies":"Guitar"
+    }
+]
